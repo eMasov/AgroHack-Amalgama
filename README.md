@@ -5,7 +5,7 @@
 ### 1. Погодные данные и target:
 + `Feature generation.ipynb`
 
-### 2. (генетические данные):
+### 2. Генетические данные:
 + `analizing vcf.ipynb` 
 + `vcf.ipynb`
 + `vcf_with_clear.ipynb` 
